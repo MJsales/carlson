@@ -1,0 +1,49 @@
+/* Styles for the body element */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Styles for heading elements */
+h1, h2, h3 {
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+/* Styles for links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Styles for paragraphs */
+p {
+  line-height: 1.5;
+}
+
+/* Styles for container elements */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Styles for buttons */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0066cc;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background-color: #004499;
+}
