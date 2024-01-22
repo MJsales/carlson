@@ -47,3 +47,7 @@ p {
 .button:hover {
   background-color: #004499;
 }
+
+.image-right {
+  float: right;
+}
